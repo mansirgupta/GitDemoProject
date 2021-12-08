@@ -1,6 +1,5 @@
 
-public class Test {
-
+public class Test2 {
 	public static void main(String[] args)
 	{
 		String hungry="yes";
@@ -11,4 +10,5 @@ public class Test {
 			System.out.println("Do work");
 		}
 	}
+
 }
